@@ -8,9 +8,9 @@ The [Eel](https://en.wikipedia.org/wiki/Eel) is a ray-finned fish belonging to t
 
 ### Early life of an average Eel
 
-The early life of the Eel is to this day unclear. The first record of the eel however is documented is this foto, taken right after he saved the life of 50 people in an age of 12 years:
+The early life of the Eel is to this day unclear. The first record of the eel however is documented is this foto, taken right after he saved the life of 50 people at an age of 12 years:
 
-<img src="eelbadboy.png" width="300" height="300">
+<img src="eelbadboy.png" width="350" height="350">
 
 
 
@@ -18,7 +18,18 @@ The early life of the Eel is to this day unclear. The first record of the eel ho
 He has always been a ladys man. Here he is pictured with his first girlfriend:
 
 
-<img src="eeldamer.png" width="300" height="300">
+<img src="eeldamer.png" width="350" height="350">
 
 
+### Mating season
+
+The mating season of the Eel takes place in central Copenhagen, around Skindergade and Kattesundet. Here the Eel will slime op and down the area, hunting for hopeless pray.
+
+Heat map illustrating the Eels movement: 
+<img src="heatmap.png" width="350" height="350">
+
+
+### Favourite Location 
+The eel is known for its love towards Stenløse playground, where it can often be found between 4am and 7 am during weekends. This is known to the locals in Stenløse, who make sure to keep their kids safe and far away from the playground at these hours.
+<img src="Legeplads.png" width="350" height="350">
 
