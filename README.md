@@ -26,10 +26,14 @@ He has always been a ladys man. Here he is pictured with his first girlfriend:
 The mating season of the Eel takes place in central Copenhagen, around Skindergade and Kattesundet. Here the Eel will slime op and down the area, hunting for hopeless pray.
 
 Heat map illustrating the Eels movement: 
+
+
 <img src="heatmap.png" width="350" height="350">
 
 
 ### Favourite Location 
 The eel is known for its love towards Stenløse playground, where it can often be found between 4am and 7 am during weekends. This is known to the locals in Stenløse, who make sure to keep their kids safe and far away from the playground at these hours.
+
+
 <img src="Legeplads.png" width="350" height="350">
 
