@@ -23,7 +23,7 @@ He has always been a ladys man. Here he is pictured with his first girlfriend:
 
 ### Mating season
 
-The mating season of the Eel takes place in central Copenhagen, around Skindergade and Kattesundet. Here the Eel will slime op and down the area, hunting for hopeless pray.
+The mating season of the Eel takes place in central Copenhagen, around [Skindergade](https://www.facebook.com/realnicksoe) and [Kattesundet](https://www.facebook.com/christianruskov). Here the Eel will slime op and down the area, hunting for hopeless pray.
 
 Heat map illustrating the Eels movement: 
 
