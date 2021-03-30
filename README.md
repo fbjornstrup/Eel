@@ -8,36 +8,13 @@ The [Eel](https://en.wikipedia.org/wiki/Eel) is a ray-finned fish belonging to t
 
 ### Early life of an average Eel
 
+The early life of the Eel is to this day unclear. The first record of the eel however is documented is this foto, taken right after he saved the life of 50 people in an age of 12 years:
 
 <img src="eelbadboy.png" width="300" height="300">
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### First love 
+He was always a ladys man
+<img src="eeldamer.png" width="300" height="300">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fbjornstrup/Eel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
