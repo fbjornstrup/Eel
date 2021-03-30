@@ -16,5 +16,5 @@ The early life of the Eel is to this day unclear. The first record of the eel ho
 
 ### First love 
 He was always a ladys man
-<img src="eeldamer.jpeg" width="300" height="300">
+<img src="eeldamer.png" width="300" height="300">
 
