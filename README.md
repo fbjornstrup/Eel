@@ -42,7 +42,11 @@ The eel is known for its love towards Stenløse playground, where it can often b
 
 # True story from one of the eel's acquaintances
 
+
+<img src="morten.png" width="200" height="2000">
+
+
 *"Hello. My name is Morten Skovsbøg and I'm a recovering drug addict, gambler and a known degenerate. A few years ago when I sold my apartment that my mom had bought me, everything went down hill. I spend literally every single dollar on Stay Hotel, cocain and hookers. When I was out of money I moved back in with my mom and started playing World of Warcraft all day like a true degenerate. But then Marcus "The real Eel" Gebaur came in to my life. He lifted me up, got me back on my feet and showed me the way I had to go. Now I work as a car salesman, sushi salesman, suitsalesman and steroid salesman. Business is booming and I'm truly suffering from succes. I still do cocain now and again, but responsibly. I cannot thank Mr. Eel enough."*
 
 
-<img src="Morten.png" width="550" height="450">
+
