@@ -8,6 +8,10 @@ The [Eel](https://en.wikipedia.org/wiki/Eel) is a ray-finned fish belonging to t
 
 ### Early life of an average Eel
 
+
+![GitHub Logo](eelbadboy.png)
+Format: ![Alt Text](url)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
