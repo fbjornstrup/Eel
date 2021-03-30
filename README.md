@@ -12,6 +12,8 @@ The [Eel](https://en.wikipedia.org/wiki/Eel) is a ray-finned fish belonging to t
 ![alt text](eelbadboy.png =250x250)
 
 
+![](eelbadboy.png | width=60)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
