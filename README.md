@@ -9,9 +9,7 @@ The [Eel](https://en.wikipedia.org/wiki/Eel) is a ray-finned fish belonging to t
 ### Early life of an average Eel
 
 
-<img src="eelbadboy.png" width="100" height="100">
-
-![alt text](eelbadboy.png)
+<img src="eelbadboy.png" width="300" height="300">
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
