@@ -6,7 +6,7 @@ The [Eel](https://en.wikipedia.org/wiki/Eel) is a ray-finned fish belonging to t
 
 
 
-### Early life of the Eel
+### Early life of an average Eel
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
